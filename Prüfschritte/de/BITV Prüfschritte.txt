@@ -1,0 +1,118 @@
+Allgemeine Anforderungen
+•	5.2 Aktivierung von Barrierefreiheitsfunktionen
+•	5.3 Biometrie
+•	5.4 Erhaltung von Barrierefreiheitsinformationen bei Konvertierung
+Zwei-Wege-Sprachkommunikation
+•	6.1 Audiobandbreite für Sprache
+•	6.2.1.1 Textkommunikation in Echtzeit
+•	6.2.1.2 Gleichzeitige Sprache und Text
+•	6.2.2.1 Visuell unterscheidbare Anzeige von Textnachrichten
+•	6.2.2.2 Programmatisch unterscheidbare Anzeige von Textnachrichten
+•	6.2.2.3 Sprecheridentifizierung
+•	6.2.2.4 Echtzeitanzeige von Sprech-Aktivität
+•	6.2.3 Interoperabilität von Echtzeit-Textkommunikation
+•	6.2.4 Reaktionsgeschwindigkeit der Echtzeit-Textkommunikation
+•	6.3 Anrufer-Identifizierung
+•	6.4 Alternativen zu sprachbasierten Diensten
+•	6.5.2 Auflösung bei Videotelefonie
+•	6.5.3 Bildwiederholfrequenz bei Videotelefonie
+•	6.5.4 Synchronität bei Videotelefonie
+•	6.5.5 Visuelle Anzeige von Audio-Aktivität
+•	6.5.6 Sprecher-Anzeige für Gebärdensprachen-Kommunikation
+Videofähigkeiten
+•	7.1.1 Wiedergabe von Untertiteln
+•	7.1.2 Synchrone Untertitel
+•	7.1.3 Erhaltung von Untertiteln
+•	7.1.4 Untertitel-Anpassungen
+•	7.1.5 Gesprochene Untertitel
+•	7.2.1 Wiedergabe von Audiodeskription
+•	7.2.2 Synchrone Audiodeskription
+•	7.2.3 Erhaltung von Audiodeskription
+•	7.3 Bedienelemente für Untertitel und Audiodeskription
+Textalternativen
+•	9.1.1.1a Alternativtexte für Bedienelemente
+•	9.1.1.1b Alternativtexte für Grafiken und Objekte
+•	9.1.1.1c Leere alt-Attribute für Layoutgrafiken
+•	9.1.1.1d Alternativen für CAPTCHAs
+Zeitbasierte Medien
+•	9.1.2.1 Alternativen für Audiodateien und stumme Videos
+•	9.1.2.2 Aufgezeichnete Videos mit Untertiteln
+•	9.1.2.3 Audiodeskription oder Volltext-Alternative für Videos
+•	9.1.2.4 Videos (live) mit Untertiteln
+•	9.1.2.5 Audiodeskription für Videos
+Anpassbar
+•	9.1.3.1a HTML-Strukturelemente für Überschriften
+•	9.1.3.1b HTML-Strukturelemente für Listen
+•	9.1.3.1c HTML-Strukturelemente für Zitate
+•	9.1.3.1d Inhalt gegliedert
+•	9.1.3.1e Datentabellen richtig aufgebaut
+•	9.1.3.1f Zuordnung von Tabellenzellen
+•	9.1.3.1g Kein Strukturmarkup für Layouttabellen
+•	9.1.3.1h Beschriftung von Formularelementen programmatisch ermittelbar
+•	9.1.3.2 Sinnvolle Reihenfolge
+•	9.1.3.3 Ohne Bezug auf sensorische Merkmale nutzbar
+•	9.1.3.4 Keine Beschränkung der Bildschirmausrichtung
+•	9.1.3.5 Eingabefelder zu Nutzerdaten vermitteln den Zweck
+Unterscheidbar
+•	9.1.4.1 Ohne Farben nutzbar
+•	9.1.4.2 Ton abschaltbar
+•	9.1.4.3 Kontraste von Texten ausreichend
+•	9.1.4.4 Text auf 200 % vergrößerbar
+•	9.1.4.5 Verzicht auf Schriftgrafiken
+•	9.1.4.10 Inhalte brechen um
+•	9.1.4.11 Kontraste von Grafiken und grafischen Bedienelementen ausreichend
+•	9.1.4.12 Textabstände anpassbar
+•	9.1.4.13 Eingeblendete Inhalte bedienbar
+Per Tastatur zugänglich
+•	9.2.1.1 Ohne Maus nutzbar
+•	9.2.1.2 Keine Tastaturfalle
+•	9.2.1.4 Tastatur-Kurzbefehle abschaltbar oder anpassbar
+Ausreichend Zeit
+•	9.2.2.1 Zeitbegrenzungen anpassbar
+•	9.2.2.2 Bewegte Inhalte abschaltbar
+Anfälle
+•	9.2.3.1 Verzicht auf Flackern
+Navigierbar
+•	9.2.4.1 Bereiche überspringbar
+•	9.2.4.2 Sinnvolle Dokumenttitel
+•	9.2.4.3 Schlüssige Reihenfolge bei der Tastaturbedienung
+•	9.2.4.4 Aussagekräftige Linktexte
+•	9.2.4.5 Alternative Zugangswege
+•	9.2.4.6 Aussagekräftige Überschriften und Beschriftungen
+•	9.2.4.7 Aktuelle Position des Fokus deutlich
+Eingabemodalitäten
+•	9.2.5.1 Alternativen für komplexe Zeiger-Gesten
+•	9.2.5.2 Zeigergesten-Eingaben können abgebrochen oder widerrufen werden
+•	9.2.5.3 Sichtbare Beschriftung Teil des zugänglichen Namens
+•	9.2.5.4 Alternativen für Bewegungsaktivierung
+Lesbar
+•	9.3.1.1 Hauptsprache angegeben
+•	9.3.1.2 Anderssprachige Wörter und Abschnitte ausgezeichnet
+Vorhersehbar
+•	9.3.2.1 Keine unerwartete Kontextänderung bei Fokus
+•	9.3.2.2 Keine unerwartete Kontextänderung bei Eingabe
+•	9.3.2.3 Konsistente Navigation
+•	9.3.2.4 Konsistente Bezeichnung
+Hilfestellung bei der Eingabe
+•	9.3.3.1 Fehlererkennung
+•	9.3.3.2 Beschriftungen von Formularelementen vorhanden
+•	9.3.3.3 Hilfe bei Fehlern
+•	9.3.3.4 Fehlervermeidung wird unterstützt
+Kompatibel
+•	9.4.1.1 Korrekte Syntax
+•	9.4.1.2 Name, Rolle, Wert verfügbar
+•	9.4.1.3 Statusmeldungen programmatisch verfügbar
+Benutzerdefinierte Einstellungen
+•	11.7 Benutzerdefinierte Einstellungen
+Autorenwerkzeuge
+•	11.8.2 Barrierefreie Erstellung von Inhalten
+•	11.8.3 Erhaltung von Barrierefreiheitsinformationen bei Transformation
+•	11.8.4 Reparaturassistenz
+•	11.8.5 Vorlagen
+Dokumentation und Support
+•	12.1.1 Dokumentation von Kompatibilität und Barrierefreiheit
+•	12.1.2 Barrierefreie Dokumentation
+•	12.2.2 Technischer Support
+•	12.2.3 Effektive Kommunikation
+•	12.2.4 Vom Support bereitgestellte Dokumentation
+
